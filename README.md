@@ -237,7 +237,7 @@ latexmk
 
 ### 🎓 Undergraduate (UG) Requirements
 
-- **Maximum Students**: 5 students per group
+- **Maximum Students**: 3 students per group
 - **Author Biography**: Not included
 - **Degree Type**: Bachelor of Technology (B. Tech.)
 - **Paper Code**: As per department guidelines
