@@ -381,7 +381,7 @@ Adjust geometry in `thesis.cls`:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE.lic][LICENSE.lic](https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial/blob/main/LICENSE) file for details.
 
 ```
 MIT License
