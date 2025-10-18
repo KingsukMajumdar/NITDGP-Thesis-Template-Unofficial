@@ -1,9 +1,9 @@
-# 🎓 LaTeX Thesis Template for National Institute Of Technology Durgapur
+# 🎓 LaTeX Thesis Template  [Unofficial] for National Institute Of Technology Durgapur 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/) [![Version](https://img.shields.io/badge/Version-V1.0-blue.svg)](https://github.com/) [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)](https://www.overleaf.com/) [![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=flat&logo=YouTube&logoColor=red)](https://www.youtube.com/@LearnWithKingsuk) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial.git)
 
 
-A professional, feature-rich LaTeX template for undergraduate, postgraduate, and doctoral thesis at **National Institute Of Technology Durgapur**. This template provides automated formatting, multi-student support, and institutional compliance while maintaining academic presentation standards.
+A professional, feature-rich LaTeX template [**Unofficial**]  for undergraduate, postgraduate, and doctoral thesis at **National Institute Of Technology Durgapur**. This template provides automated formatting, multi-student support, and institutional compliance while maintaining academic presentation standards.
 
 With Regards  
 Kingsuk Majumdar, Ph.D. (Engg.)
