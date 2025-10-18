@@ -7,6 +7,8 @@ A professional, feature-rich LaTeX template [**Unofficial**]  for undergraduate,
 
 With Regards  
 Kingsuk Majumdar, Ph.D. (Engg.)
+
+
 M. Tech (EE, 2013) & Ph.D (EE, 2023)
 
 ---
