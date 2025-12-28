@@ -10,6 +10,9 @@ Kingsuk Majumdar, Ph.D. (Engg.)
 
 
 M. Tech (EE, 2013) & Ph.D (EE, 2023)
+
+
+
 ⚠️ Disclaimer
 This template is unofficial and does NOT use the NIT Durgapur logo (no official permission). Formatting follows Ph.D. Regulation 2022 (July) guidelines.
 ---
