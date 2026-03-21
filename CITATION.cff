@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this template for your thesis, please cite it as below."
+title: "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)"
+version: "1.0.0"
+date-released: "2025-01-01"
+abstract: >
+  An unofficial, professional-grade LaTeX thesis template designed for undergraduate,
+  postgraduate, and doctoral students at National Institute of Technology Durgapur (NIT Durgapur).
+  The template provides automated formatting, multi-student support (up to 3 students for UG,
+  1 for PG/PhD), latexmk integration, MATLAB code highlighting, and full institutional compliance
+  with academic presentation standards. It is an alumni initiative developed to ease the
+  thesis-writing process for the NITDGP community.
+authors:
+  - family-names: "Majumdar"
+    given-names: "Kingsuk"
+    orcid: "https://orcid.org/0000-0001-7224-4862"
+    email: "kingsuk.majumdar@bcrec.ac.in"
+    affiliation: "Department of Electrical Engineering, Dr. B. C. Roy Engineering College, Durgapur, West Bengal, India"
+    alias: "KingsukMajumdar"
+type: software
+license: MIT
+repository-code: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
+url: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
+keywords:
+  - latex
+  - thesis-template
+  - nit-durgapur
+  - lualatex
+  - academic-writing
+  - phd-thesis
+  - mtech-thesis
+  - btech-thesis
+  - electrical-engineering
+  - india
+  - unofficial-template
+references:
+  - type: software
+    title: "LuaLaTeX"
+    url: "https://www.luatex.org/"
+  - type: software
+    title: "latexmk"
+    url: "https://ctan.org/pkg/latexmk"
+preferred-citation:
+  type: software
+  title: "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)"
+  authors:
+    - family-names: "Majumdar"
+      given-names: "Kingsuk"
+      orcid: "https://orcid.org/0000-0001-7224-4862"
+  year: 2025
+  license: MIT
+  repository-code: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
