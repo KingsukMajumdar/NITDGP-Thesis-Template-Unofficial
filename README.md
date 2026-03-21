@@ -26,7 +26,7 @@ Zenodo. https://doi.org/10.5281/zenodo.19153286
 
 ---
 
-## BibTeX Citation (add to README or CITATION section)
+## BibTeX Citation (for LaTex)
 
 ```bibtex
 @software{majumdar_kingsuk_2026_nitdgp,
