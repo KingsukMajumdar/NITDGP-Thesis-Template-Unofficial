@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this template for your thesis, please cite it as below."
 title: "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)"
 version: "1.0.0"
-date-released: "2025-01-01"
+date-released: "2026-03-22"
 abstract: >
   An unofficial, professional-grade LaTeX thesis template designed for undergraduate,
   postgraduate, and doctoral students at National Institute of Technology Durgapur (NIT Durgapur).
@@ -19,6 +19,7 @@ authors:
     alias: "KingsukMajumdar"
 type: software
 license: MIT
+doi: "10.5281/zenodo.19153286"
 repository-code: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
 url: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
 keywords:
@@ -49,4 +50,5 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0001-7224-4862"
   year: 2025
   license: MIT
+  doi: "10.5281/zenodo.19153286"
   repository-code: "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial"
