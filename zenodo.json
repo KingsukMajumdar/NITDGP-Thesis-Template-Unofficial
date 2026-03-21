@@ -1,0 +1,44 @@
+{
+  "title": "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)",
+  "description": "An unofficial, professional-grade LaTeX thesis template designed for undergraduate, postgraduate, and doctoral students at National Institute of Technology Durgapur (NIT Durgapur). The template provides automated formatting, multi-student support (up to 3 students for UG, 1 for PG/PhD), latexmk integration, MATLAB code highlighting via mcode.sty, comprehensive error handling, and full institutional compliance with academic presentation standards. It is an alumni initiative developed to ease the thesis-writing experience for the NITDGP community. Features include: professional A4 formatting, conditional multi-student rendering, integrated photo handling for author biographies, customizable headers/footers/title pages, justified text without hyphenation, and complete frontmatter/backmatter templates.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Majumdar, Kingsuk",
+      "affiliation": "Department of Electrical Engineering, Dr. B. C. Roy Engineering College, Durgapur, West Bengal, India",
+      "orcid": "0000-0001-7224-4862"
+    }
+  ],
+  "keywords": [
+    "LaTeX",
+    "thesis template",
+    "NIT Durgapur",
+    "LuaLaTeX",
+    "academic writing",
+    "PhD thesis",
+    "M.Tech thesis",
+    "B.Tech thesis",
+    "electrical engineering",
+    "India",
+    "unofficial template",
+    "latexmk",
+    "MATLAB code highlighting"
+  ],
+  "language": "eng",
+  "notes": "This is an unofficial template and is not endorsed by National Institute of Technology Durgapur. It has been developed by an alumnus to assist students in thesis preparation. Compiled and tested with LuaLaTeX (latexmk -lualatex). Acknowledgement to Prof. Subrata Banerjee, Professor, EE, NIT Durgapur.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "version": "1.0.0",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
