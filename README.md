@@ -493,7 +493,7 @@ When reporting issues, please include:
 ---
 
 ## 📈 Version History
-
+- **V1.1** (2026-03-22): DoI has been added 
 - **V1.0** (2025-10-18): Initial release for NIT Durgapur
   - Added latexmk support
   - Added flexible supervisor college configuration
