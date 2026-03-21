@@ -1,6 +1,6 @@
 # 🎓 LaTeX Thesis Template  [Unofficial] for National Institute Of Technology Durgapur 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/) [![Version](https://img.shields.io/badge/Version-V1.0-blue.svg)](https://github.com/) [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)](https://www.overleaf.com/) [![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=flat&logo=YouTube&logoColor=red)](https://www.youtube.com/@LearnWithKingsuk) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial.git)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/) [![Version](https://img.shields.io/badge/Version-V1.1-blue.svg)](https://github.com/) [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)](https://www.overleaf.com/) [![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=flat&logo=YouTube&logoColor=red)](https://www.youtube.com/@LearnWithKingsuk) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/KingsukMajumdar/NITDGP-Thesis-Template-Unofficial.git)
 
 
 A professional, feature-rich LaTeX template [**Unofficial**]  for undergraduate, postgraduate, and doctoral thesis at **National Institute Of Technology Durgapur**. This template provides automated formatting, multi-student support, and institutional compliance while maintaining academic presentation standards.
@@ -11,7 +11,35 @@ Kingsuk Majumdar, Ph.D. (Engg.)
 
 M. Tech (EE, 2013) & Ph.D (EE, 2023)
 
+# Zenodo DOI Badge & Citation — NITDGP-Thesis-Template-Unofficial
+```text
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19153286.svg)](https://doi.org/10.5281/zenodo.19153286)
+```
 
+---
+
+## APA Citation (for users to copy)
+
+Majumdar, K. (2026). *NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template
+for NIT Durgapur Thesis (UG/PG/PhD)* (Version 1.0.0) [Software].
+Zenodo. https://doi.org/10.5281/zenodo.19153286
+
+---
+
+## BibTeX Citation (add to README or CITATION section)
+
+```bibtex
+@software{majumdar_kingsuk_2026_nitdgp,
+  author       = {Majumdar, Kingsuk},
+  title        = {{NITDGP-Thesis-Template-Unofficial: Professional
+                   LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)}},
+  year         = {2026},
+  version      = {1.0.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19153286},
+  url          = {https://doi.org/10.5281/zenodo.19153286}
+}
+```
 
 ⚠️ Disclaimer
 This template is unofficial and does NOT use the NIT Durgapur logo (no official permission). Formatting follows Ph.D. Regulation 2022 (July) guidelines.
