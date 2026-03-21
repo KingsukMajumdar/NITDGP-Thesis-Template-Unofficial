@@ -11,33 +11,32 @@ Kingsuk Majumdar, Ph.D. (Engg.)
 
 M. Tech (EE, 2013) & Ph.D (EE, 2023)
 
-# Zenodo DOI Badge & Citation — NITDGP-Thesis-Template-Unofficial
+# Zenodo DOI Badge & Citation 
 ```text
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19153286.svg)](https://doi.org/10.5281/zenodo.19153286)
 ```
 
 ---
 
-## APA Citation (for users to copy)
+## IEEE  Citation (for users to copy)
 
-Majumdar, K. (2026). *NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template
-for NIT Durgapur Thesis (UG/PG/PhD)* (Version 1.0.0) [Software].
-Zenodo. https://doi.org/10.5281/zenodo.19153286
+K. Majumdar, "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)," version 1.0.0, Zenodo, Mar. 2026. doi: 10.5281/zenodo.19153286. [Online]. Available: https://doi.org/10.5281/zenodo.19153286
 
 ---
 
-## BibTeX Citation (for LaTex)
+## BibTeX Citation
 
 ```bibtex
-@software{majumdar_kingsuk_2026_nitdgp,
-  author       = {Majumdar, Kingsuk},
-  title        = {{NITDGP-Thesis-Template-Unofficial: Professional
-                   LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)}},
+@misc{majumdar2026nitdgp,
+  author       = {K. Majumdar},
+  title        = {{NITDGP-Thesis-Template-Unofficial: Professional LaTeX
+                   Template for NIT Durgapur Thesis (UG/PG/PhD)}},
   year         = {2026},
-  version      = {1.0.0},
+  month        = mar,
+  version      = {1.1.0},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.19153286},
-  url          = {https://doi.org/10.5281/zenodo.19153286}
+  howpublished = {\url{https://doi.org/10.5281/zenodo.19153286}}
 }
 ```
 
