@@ -20,7 +20,7 @@ M. Tech (EE, 2013) & Ph.D (EE, 2023)
 
 ## IEEE  Citation (for users to copy)
 
-K. Majumdar, "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)," version 1.0.0, Zenodo, Mar. 2026. doi: 10.5281/zenodo.19153286. [Online]. Available: https://doi.org/10.5281/zenodo.19153286
+K. Majumdar, "NITDGP-Thesis-Template-Unofficial: Professional LaTeX Template for NIT Durgapur Thesis (UG/PG/PhD)," version 1.1.0, Zenodo, Mar. 2026. doi: 10.5281/zenodo.19153286. [Online]. Available: https://doi.org/10.5281/zenodo.19153286
 
 ---
 
